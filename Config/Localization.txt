@@ -1,380 +1,367 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english
-
-
-modRelicHeatsink,item_modifiers,Mod,,,"Relic: Heatsink"
-relicHeatsinkBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nAttempts to absorb Burning debuffs when you are Burning."
-buffRelicHeatsinkName,buffs,Buff,,,Relic: Heatsink
-buffRelicHeatsinkDesc,buffs,Buff,,,Attempts to absorb Burning debuffs when you are Burning.
-
-
-modRelicBlastguard,item_modifiers,Mod,,,"Relic: Blastguard"
-relicBlastguardBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants +50 Explosion Resist"
-buffRelicBlastguardName,buffs,Buff,,,Relic: Blastguard
-buffRelicBlastguardDesc,buffs,Buff,,,Grants major value to Explosive Resist.
-
-
-modRelicContainedEnergy,item_modifiers,Mod,,,"Relic: Contained Energy"
-relicContainedEnergyBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhen hit by an enemy Shock nearby enemies.\n20 Second Cooldown."
-buffRelicContainedEnergyName,buffs,Buff,,,Relic: Contained Energy
-buffRelicContainedEnergyDesc,buffs,Buff,,,When hit by an enemy Shock nearby enemies.
-buffRelicContainedEnergyPorcCDName,buffs,Buff,,,Relic: Contained Energy Cooldown
-buffRelicContainedEnergyPorcCDDesc,buffs,Buff,,,Contained Energy has been released and is recharging.
-
-
-modRelicBarracade,item_modifiers,Mod,,,"Relic: Barracade"
-relicBarracadeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhen hit by an enemy, gain 100% Damage Mitigation which decays over 5 seconds.\n20 Second Cooldown."
-buffRelicBarracadeName,buffs,Buff,,,Relic: Barracade
-buffRelicBarracadeDesc,buffs,Buff,,,When hit by an enemy, gain 100% Damage Mitigation which decays over 5 seconds.
-buffRelicBarracadeProcName,buffs,Buff,,,Relic: Barracade Proc
-buffRelicBarracadeProcDesc,buffs,Buff,,,100% Damage Mitigation which decays over time.
-buffRelicBarracadeCDName,buffs,Buff,,,Relic: Barracade Cooldown
-buffRelicBarracadeCDDesc,buffs,Buff,,,Barracade is recharging.
-
-
-modRelicTimeCrunch,item_modifiers,Mod,,,"Relic: Time Crunch"
-relicTimeCrunchBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nInitiating an attack, gain 30% Attack Speed and Movement Speed for 5 seconds.\n16 Second Cooldown."
-buffRelicTimeCrunchName,buffs,Buff,,,Relic: Time Crunch
-buffRelicTimeCrunchDesc,buffs,Buff,,,Initiating an attack grants 30% Attack Speed and Movement Speed for 5 seconds.
-buffRelicTimeCrunchProcName,buffs,Buff,,,Relic: Time Crunch Proc
-buffRelicTimeCrunchProcDesc,buffs,Buff,,,30% Attack Speed and Movement Speed.
-buffRelicTimeCrunchCDName,buffs,Buff,,,Relic: Time Crunch Cooldown
-buffRelicTimeCrunchCDDesc,buffs,Buff,,,Time Crunch is recharging.
-
-
-modRelicFlashStrike,item_modifiers,Mod,,,"Relic: Flash Strike"
-relicFlashStrikeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nInitiating an attack grants 300% Movement Speed which decays over 2 seconds.\n10 Second Cooldown."
-buffRelicFlashStrikeName,buffs,Buff,,,Relic: Flash Strike
-buffRelicFlashStrikeDesc,buffs,Buff,,,Initiating an attack grants 300% Movement Speed which decays over time.
-buffRelicFlashStrikeProcName,buffs,Buff,,,Relic: Flash Strike Proc
-buffRelicFlashStrikeProcDesc,buffs,Buff,,,300% Movement Speed decaying over time.
-buffRelicFlashStrikeCDName,buffs,Buff,,,Relic: Flash Strike Cooldown
-buffRelicFlashStrikeCDDesc,buffs,Buff,,,Flash Strike is recharging
-
-
-modRelicShadowStrike,item_modifiers,Mod,,,"Relic: Shadow Strike"
-relicShadowStrikeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+20% Sneak Damage per 20 Player Levels\n(Effect limit is +100%)\nKilling an enemy grants Full Stealth for 2 seconds.\n6 Second Cooldown."
-buffRelicShadowStrikeName,buffs,Buff,,,Relic: Shadow Strike
-buffRelicShadowStrikeDesc,buffs,Buff,,,Killing an enemy grants Full Stealth for 2 seconds.
-buffRelicShadowStrikeProcName,buffs,Buff,,,Relic: Shadow Strike Proc
-buffRelicShadowStrikeProcDesc,buffs,Buff,,,Full Stealth is active and you're Invisible to enemies (Non-player). Attacking will break this effect.
-buffRelicShadowStrikeCDName,buffs,Buff,,,Relic: Shadow Strike Cooldown
-buffRelicShadowStrikeCDDesc,buffs,Buff,,,Shadow Strike is recharging
-
-
-modRelicDivineStrike,item_modifiers,Mod,,,"Relic: Divine Strike"
-relicDivineStrikeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhen hitting an enemy, applies a high damage Ignite which lasts 2 seconds.\nApplies only if target isnt already afflicted with the Ignite."
-buffRelicDivineStrikeName,buffs,Buff,,,Relic: Divine Strike
-buffRelicDivineStrikeDesc,buffs,Buff,,,When hitting an enemy afflict a high damage Ignite which lasts 2 seconds.\nApplies only if target isnt already afflicted with the Ignite.
-buffRelicDivineStrikeProcName,buffs,Buff,,,Relic: Divine Strike Ignite
-buffRelicDivineStrikeProcDesc,buffs,Buff,,,Taking Burning Damage over Time from Divine Strike 
-
-
-modRelicLethalStrike,item_modifiers,Mod,,,"Relic: Lethal Strike"
-relicLethalStrikeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+75% Damage while below 25% Health.\n+50% Damage while below 50% Health.\n+25% Damage while below 75% Health."
-buffRelicLethalStrikeName,buffs,Buff,,,Relic: Lethal Strike
-buffRelicLethalStrikeDesc,buffs,Buff,,,Increased damage while at certain health thresholds
-
-
-modRelicMechaCommand,item_modifiers,Mod,,,"Relic: Mecha Command"
-relicMechaCommandBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+1 Robotic Summon Limit.\n+1 Robotic Summon Limit per 50 Player Levels.\n(Effect limit is +4)"
-buffRelicMechaCommandName,buffs,Buff,,,Relic: Mecha Command
-buffRelicMechaCommandDesc,buffs,Buff,,,Increase Active Robotic Count while at certain Player Levels thresholds
-
-
-modRelicMechaGiga,item_modifiers,Mod,,,"Relic: Mecha Giga"
-relicMechaGigaBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+10% Attack Speed with Robotics per 20 Player Levels.\n(Effect limit is +100%)"
-buffRelicMechaGigaName,buffs,Buff,,,Relic: Mecha Giga
-buffRelicMechaGigaDesc,buffs,Buff,,,Increase Robotic Attack Speed while at certain Player Levels thresholds
-
-
-modRelicMechaBeacon,item_modifiers,Mod,,,"Relic: Mecha Beacon"
-relicMechaBeaconBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+2 Robotic Activation Range per 10 Player Levels.\n(Effect limit is +20)"
-buffRelicMechaBeaconName,buffs,Buff,,,Relic: Mecha Beacon
-buffRelicMechaBeaconDesc,buffs,Buff,,,Increase Robotic Activation Range while at certain Player Levels thresholds
-
-
-modRelicMechanomicon,item_modifiers,Mod,,,"Relic: Mechanomicon"
-relicMechanomiconBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+25% Robotic Sledge Damage per 25 Player Levels.\n(Effect up to +100%)\n+25 Robotic Turret Magazine Capacity per 25 Player Levels.\n(Effect up to +100)"
-buffRelicMechanomiconName,buffs,Buff,,,Relic: Mechanomicon
-buffRelicMechanomiconDesc,buffs,Buff,,,Grants Robotic Benefits while at certain Player Levels thresholds
-
-
-modRelicMendingStone,item_modifiers,Mod,,,"Relic: Mending Stone"
-relicMendingStoneBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhen hit by an Enemy:\nRecover 5 to 15 Health.\nRecover 15 to 30 Stamina.\n20 Second Cooldown."
-buffRelicMendingStoneName,buffs,Buff,,,Relic: Mending Stone
-buffRelicMendingStoneDesc,buffs,Buff,,,When hit by an enemy, recover Health and Stamina
-buffRelicMendingStoneProcName,buffs,Buff,,,Relic: Mending Stone Proc
-buffRelicMendingStoneProcDesc,buffs,Buff,,,Recovering Health and Stamina
-buffRelicMendingStoneCDName,buffs,Buff,,,Relic: Mending Stone Cooldown
-buffRelicMendingStoneCDDesc,buffs,Buff,,,Mending Stone is recharging
-
-
-modRelicSkeletalSteel,item_modifiers,Mod,,,"Relic: Skeletal Steel"
-relicSkeletalSteelBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+1% Damage Mitigation per 10 Player Levels.\n(Effect limit is +10%)"
-buffRelicSkeletalSteelName,buffs,Buff,,,Relic: Skeletal Steel
-buffRelicSkeletalSteelDesc,buffs,Buff,,,Increase Damage Mitigation while at certain Player Levels thresholds
-
-
-modRelicBloodSacrifice,item_modifiers,Mod,,,"Relic: Blood Sacrifice"
-relicBloodSacrificeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy with Melee or Archery grants a Blood Charge.\nBlood Charge grants +50% Melee and Archery Damage.\nLoose Health equal to the number of Blood Charges you have when you gain a Blood Charge.\nWhen you have 3 Blood Charges loose all Blood Charges when Hitting an Enemy."
-buffRelicEquippedBloodSacrificeName,buffs,Buff,,,Relic: Blood Sacrifice
-buffRelicEquippedBloodSacrificeDesc,buffs,Buff,,,Increase Damage Mitigation while at certain Player Levels thresholds
-
-
-modRelicForgeBadge,item_modifiers,Mod,,,"Relic: Forge Badge"
-relicForgeBadgeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+15% Faster Crafting.\n+10% Salvage Harvest Quantity per 20 Player Levels.\n(Effect up to +100%)"
-buffRelicEquippedForgeBadgeName,buffs,Buff,,,Relic: Forge Badge
-buffRelicEquippedForgeBadgeDesc,buffs,Buff,,,Faster Crafting and More Salvage Harvest Quantity
-
-
-modRelicAnomolicOre,item_modifiers,Mod,,,"Relic: Anomolic Ore"
-relicAnomolicOreBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Chance to One-Shot ore.\n+10% Ore Harvest Quantity per 20 Player Levels.\n(Effect up to +100%)"
-buffRelicEquippedAnomolicOreName,buffs,Buff,,,Relic: Anomolic Ore
-buffRelicEquippedAnomolicOreDesc,buffs,Buff,,,Chance to One-Shot Ore and More Ore Harvest Quantity
-
-
-modRelicFragileFragment,item_modifiers,Mod,,,"Relic: Fragile Fragment"
-relicFragileFragmentBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants +100% Damage Mitigation when hit by an enemy.\nEffect lasts 3 seconds.\n20 Second Cooldown."
-buffRelicFragileFragmentName,buffs,Buff,,,Relic: Fragile Fragment
-buffRelicFragileFragmentDesc,buffs,Buff,,,When hit by an enemy, grants Damage Mitigation
-buffRelicFragileFragmentProcName,buffs,Buff,,,Relic: Fragile Fragment Proc
-buffRelicFragileFragmentProcDesc,buffs,Buff,,,Grants Damage Mitigation
-buffRelicFragileFragmentCDName,buffs,Buff,,,Relic: Fragile Fragment Cooldown
-buffRelicFragileFragmentCDDesc,buffs,Buff,,,Fragile Fragment is recharging
-
-
-modRelicBBSwiftness,item_modifiers,Mod,,,"Relic: Battle Badge of Swiftness"
-relicBBSwiftnessBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy with a Power Attack grants +150% Attack Speed for 4 seconds.\n(16 Second Cooldown)"
-buffRelicBBSwiftnessName,buffs,Buff,,,Relic: Battle Badge of Swiftness
-buffRelicBBSwiftnessDesc,buffs,Buff,,,Grants Attack Speed on hitting an enemy with a Power Attack
-buffRelicBBSwiftnessProcName,buffs,Buff,,,Relic: Battle Badge of Swiftness Proc
-buffRelicBBSwiftnessProcDesc,buffs,Buff,,,Grants Attack Speed
-buffRelicBBSwiftnessCDName,buffs,Buff,,,Relic: Battle Badge of Swiftness Cooldown
-buffRelicBBSwiftnessCDDesc,buffs,Buff,,,Battle Badge of Swiftness is recharging
-
-
-modRelicBBForce,item_modifiers,Mod,,,"Relic: Battle Badge of Force"
-relicBBForceBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy with a Power Attack will Knockdown nearby Enemies.\n(16 Second Cooldown)"
-buffRelicBBForceName,buffs,Buff,,,Relic: Battle Badge of Force
-buffRelicBBForceDesc,buffs,Buff,,, Knockdown nearby Enemies with a Power Attack
-buffRelicBBForceCDName,buffs,Buff,,,Relic: Battle Badge of Force Cooldown
-buffRelicBBForceCDDesc,buffs,Buff,,,Battle Badge of Force is recharging
-
-
-modRelicBBBlood,item_modifiers,Mod,,,"Relic: Battle Badge of Blood"
-relicBBBloodBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy with a Power Attack applies a Lethal Bleed to nearby Enemies.\n(16 Second Cooldown)"
-buffRelicBBBloodLethalBleedName,buffs,Buff,,,Lethal Bleeding
-buffRelicBBBloodLethalBleedDesc,buffs,Buff,,, Large health loss over time
-buffRelicBBBloodCDName,buffs,Buff,,,Relic: Battle Badge of Blood Cooldown
-buffRelicBBBloodCDDesc,buffs,Buff,,,Battle Badge of Blood is recharging
-
-
-modRelicBBWar,item_modifiers,Mod,,,"Relic: Battle Badge of War"
-relicBBWarBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+25% Damage\n+10% Attack Speed and Movement Speed\n+5% Damage Mitigation"
-buffRelicEquippedBBWarName,buffs,Buff,,,Relic: Battle Badge of War
-buffRelicEquippedBBWarDesc,buffs,Buff,,,Grants boosts to different stats
-
-
-modRelicBBHunt,item_modifiers,Mod,,,"Relic: Battle Badge of Hunt"
-relicBBHuntBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+20% Arrow Stick Chance\nHitting an Enemy with Archery will grant +150% Archery Attack Speed for 4 seconds.\n(16 Second Cooldown)"
-buffRelicBBHuntName,buffs,Buff,,,Relic: Battle Badge of Hunt
-buffRelicBBHuntDesc,buffs,Buff,,,Grants Projectile Stick Chance and grants Archery Attack Speed on hitting an enemy with an Archery Attack
-buffRelicBBHuntProcName,buffs,Buff,,,Relic: Battle Badge of Hunt Proc
-buffRelicBBHuntProcDesc,buffs,Buff,,,Grants Archery Attack Speed
-buffRelicBBHuntCDName,buffs,Buff,,,Relic: Battle Badge of Hunt Cooldown
-buffRelicBBHuntCDDesc,buffs,Buff,,,Battle Badge of Hunt is recharging
-
-
-
-modRelicFlaskOfLife,item_modifiers,Mod,,,"Relic: Flask Of Life"
-relicFlaskOfLifeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRecover 25 Health on reaching 25% or less Health.\n(15 Second Cooldown)"
-buffRelicEquippedFlaskOfLifeCDName,buffs,Buff,,,Relic: Flask Of Life Cooldown
-buffRelicEquippedFlaskOfLifeCDDesc,buffs,Buff,,,Flask Of Life is recharging
-
-modRelicFlaskOfStamina,item_modifiers,Mod,,,"Relic: Flask Of Stamina"
-relicFlaskOfStaminaBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRecover 50 Stamina on reaching 25% or less Stamina.\n(15 Second Cooldown)"
-buffRelicEquippedFlaskOfStaminaCDName,buffs,Buff,,,Relic: Flask Of Stamina Cooldown
-buffRelicEquippedFlaskOfStaminaCDDesc,buffs,Buff,,,Flask Of Stamina is recharging
-
-
-modRelicSunderCharm,item_modifiers,Mod,,,"Relic: Sunder Charm"
-relicSunderCharmBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy applies a stacking debuff that applies -20% Physical Damage Resist.\n(Stack limit is 10)"
-buffRelicSunderEffectName,buffs,Buff,,,Sundered
-buffRelicSunderEffectDesc,buffs,Buff,,,Reduced Physical Resistance
-
-
-modRelicTravelerCharm,item_modifiers,Mod,,,"Relic: Traveler Charm"
-relicTravelerCharmBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+20% Looting Speed\n+1 Carry Capacity per 10 Player Levels.\n(Effect up to +10)"
-
-modRelicCharredCharm,item_modifiers,Mod,,,"Relic: Charred Charm"
-relicCharredCharmBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an enemy with Melee or Archery will extend the duration of Burning effects."
-
-
-modRelicZenith,item_modifiers,Mod,,,"Relic: Zenith"
-relicZenithBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+1 All Attributes.\n+10% EXP Gained.\n+1% EXP Gained per 10 Player Levels.\n(Effect up to +10%)"
-
-
-modRelicExquisiteStone,item_modifiers,Mod,,,"Relic: Exquisite Stone"
-relicExquisiteStoneBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants Immunity to Stun Effects.\n+1 Health Regen per Second.\n+25% Stamina Regen."
-
-
-modRelicPredator,item_modifiers,Mod,,,"Relic: Predator"
-relicPredatorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants effects per 20 Player Levels up to Player Level 100:\n+10% Projectile Velocity\n+5% Arrow Stick Chance\n+20% Sneak Damage"
-
-
-modRelicMasterKey,item_modifiers,Mod,,,"Relic: Master Key"
-relicMasterKeyBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Chance to Prevent Lockpick Break per 10 Player Levels.\n+5% Lockpicking Speed per 10 Player Levels.\n(Effect up to 50%)"
-
-
-modRelicMechaOverdrive,item_modifiers,Mod,,,"Relic: Mecha Overdrive"
-relicMechaOverdriveBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+50% Robotic Attack Speed for 6 Seconds.\nPower Attack Triggers this effect.\n20 Second Cooldown."
-buffRelicEquippedMechaOverdriveEffectName,buffs,Buff,,,Relic: Mecha Overdrive Proc
-buffRelicEquippedMechaOverdriveEffectDesc,buffs,Buff,,,Increased Robotic Attack Speed
-buffRelicEquippedMechaOverdriveCDName,buffs,Buff,,,Relic: Mecha Overdrive Cooldown
-buffRelicEquippedMechaOverdriveCDDesc,buffs,Buff,,,Mecha Overdrive is recharging.
-
-
-modRelicCrepitus,item_modifiers,Mod,,,"Relic: Crepitus"
-relicCrepitusBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+10% Explosion Damage per 10 Player Levels.\n(Effect up to +100%)"
-
-
-modRelicContinentiam,item_modifiers,Mod,,,"Relic: Continentiam"
-relicContinentiamBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Damage Mitigation while below 75% Health\n+5% Damage Mitigation while below 50% Health\n+5% Damage Mitigation while below 25% Health"
-
-
-modRelicUPOE,item_modifiers,Mod,,,"Relic: Untainted Pair of Eyes"
-relicUPEBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants effects per 25 Player Levels up to Player Level 200:\n+10% Damage\n+5% Attack Speed\n+2% Movement Speed\n+1% Damage Mitigation"
-
-
-modRelicPurifier,item_modifiers,Mod,,,"Relic: Purifier"
-relicPurifierBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an enemy prevents Radiated Regen."
-
-
-modRelicGraspingHeart,item_modifiers,Mod,,,"Relic: Grasping Heart"
-relicGraspingHeartBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+15% Damage with Brawling per 10 Player Levels.\n(Effect up to +150%)\n+3% Attack Speed with Brawling per 10 Player Levels.\n(Effect up to + 30%)"
-
-
-modRelicCorruption,item_modifiers,Mod,,,"Relic: Corruption"
-relicCorruptionBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nTracks Zombies."
-buffRelicCorruptionTrackName,buffs,Buff,,,Relic: Corruption Tracking
-buffRelicCorruptionTrackDesc,buffs,Buff,,,Tracks Zombies
-
-
-modRelicIgnitious,item_modifiers,Mod,,,"Relic: Ignitious"
-relicIgnitiousBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRegular Hit: 25% chance for Effect. Ignores Cooldown.\nPower Attack Hit: 100% chance for Effect.\nCauses nearby enemies to become Ignited for 4 seconds.\n(12 Second Cooldown)"
-buffRelicEquippedIgnitiousCDName,buffs,Buff,,,Relic: Ignitious Cooldown
-buffRelicEquippedIgnitiousCDDesc,buffs,Buff,,,Ignitious is recharging.
-buffRelicIgnitiousDoTName,buffs,Buff,,,Relic: Ignitious Ignite
-buffRelicIgnitiousDoTDesc,buffs,Buff,,,Taking Burning Damage over Time from Ignitious.
-
-modRelicFrigus,item_modifiers,Mod,,,"Relic: Frigus"
-relicFrigusBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRegular Hit: 25% chance for Effect. Ignores Cooldown.\nPower Attack Hit: 100% chance for Effect.\nCauses nearby enemies to become Chilled for 3 seconds.\n(12 Second Cooldown)"
-buffRelicEquippedFrigusCDName,buffs,Buff,,,Relic: Frigus Cooldown
-buffRelicEquippedFrigusCDDesc,buffs,Buff,,,Frigus is recharging.
-buffRelicFrigusEffectName,buffs,Buff,,,Relic: Frigus Chilled
-buffRelicFrigusEffectDesc,buffs,Buff,,,Slowed Movement and Attack Speed.
-
-modRelicFulgor,item_modifiers,Mod,,,"Relic: Fulgor"
-relicFulgorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRegular Hit: 25% chance for Effect. Ignores Cooldown.\nPower Attack Hit: 100% chance for Effect.\nCauses nearby enemies to become Shocked for 2 seconds.\n(12 Second Cooldown)"
-buffRelicEquippedFulgorCDName,buffs,Buff,,,Relic: Fulgor Cooldown
-buffRelicEquippedFulgorCDDesc,buffs,Buff,,,Fulgor is recharging.
-
-modRelicFistOfFury,item_modifiers,Mod,,,"Relic: Fist of Fury"
-relicFistOfFuryBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nBrawler attacks grants a Fist of Fury Charge.\nCharge 1: +35% Attack Speed\nCharge 2: +35% Damage\nCharge 3: Knockback\nFist of Fury Charges reset after the 3rd charge."
-buffRelicEquippedFistOfFuryName,buffs,Buff,,,Relic: Fist of Fury
-buffRelicEquippedFistOfFuryDesc,buffs,Buff,,,Gain effects per charge
-
-modRelicGrandTemplar,item_modifiers,Mod,,,"Relic: Grand Templar"
-relicGrandTemplarBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhile wielding a Club you and allies gain:\n+25 Max Health and Stamina\n+25% Damage\n+10% Attack and Movement Speed"
-buffRelicGrandTemplarAllyName,buffs,Buff,,,Relic: Grand Templar
-buffRelicGrandTemplarAllyDesc,buffs,Buff,,,Gain boost to Health, Stamina, Damage, Attack Speed and Movement Speed
-
-modRelicUnchained,item_modifiers,Mod,,,"Relic: Unchained"
-relicUnchainedBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Damage per Strength\n+3% Attack Speed per Agility\n+1% Damage Mitigation per Fortitude"
-buffRelicEquippedUnchainedName,buffs,Buff,,,Relic: Unchained
-buffRelicEquippedUnchainedDesc,buffs,Buff,,,Gain boost to stats based on attribute levels
-
-modRelicSlaughter,item_modifiers,Mod,,,"Relic: Slaughter"
-relicSlaughterBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nMelee and Archery hits grants a Slaughter Charge.\n+50% Attack Speed per Slaughter Charge\nSlaughter Charges reset after the 2nd charge.\n(Effects of Slaughter Charge doubled if using axes)"
-buffRelicEquippedSlaughterName,buffs,Buff,,,Relic: Slaughter
-buffRelicEquippedSlaughterDesc,buffs,Buff,,,Gain effects per charge
-
-modRelicMechagrasp,item_modifiers,Mod,,,"Relic: Mecha Grasp"
-relicMechagraspBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nEach point in Electrocutioner generates more Shock Charge over time. At 100 Shock Charge: Robotic Sledge, Melee, and Archery will shock enemies on hit and resets Shock Charge."
-buffRelicEquippedMechagraspChargeName,buffs,Buff,,,Relic: Mecha Grasp Charging
-buffRelicEquippedMechagraspChargeDesc,buffs,Buff,,,Charging up to 100
-
-modRelicQuillRain,item_modifiers,Mod,,,"Relic: Quill Rain"
-relicQuillRainBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+150% Attack Speed with Archery\n-35% Damage with Archery"
-
-modRelicWindForce,item_modifiers,Mod,,,"Relic: Wind Force"
-relicWindForceBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGenerate Wind Force Charge on hitting an enemy with Archery.\nCharge Effect: Knockback enemies on hit.(Radius 2 Meters)\nFinal Charge: Knock Down enemies on hit (Radius 3 Meters).\nWind Force Charges reset after the 5th charge."
-buffRelicEquippedWindForceName,buffs,Buff,,,Relic: Wind Force
-buffRelicEquippedWindForceDesc,buffs,Buff,,,Gain effects with charges
-
-modRelicMagnatide,item_modifiers,Mod,,,"Relic: Magnatide"
-relicMagnatideBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nPower Attack knock enemies towards you."
-
-modRelicMechanergy,item_modifiers,Mod,,,"Relic: Mechanergy"
-relicMechanergyBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Stamina Regen per Intellect point\n+5 Max Stamina per Intellect point"
-
-modRelicVanSwiftsSickle,item_modifiers,Mod,,,"Relic: Van Swift's Sickle"
-relicVanSwiftsSickleBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGain a Swift Charge on hitting an enemy.\n+5% Attack Speed per Swift Charge.\n+5% Movement Speed per Swift Charge.\nSwift Charge last for 8 seconds.\n(Effects of Swift Charge doubled if using blades or knifes)\n(6 Charge Limit)"
-buffRelicEquippedVanSwiftsSickleName,buffs,Buff,,,Relic: Van Swift's Sickle
-buffRelicEquippedVanSwiftsSickleDesc,buffs,Buff,,,Gain effects with charges
-buffSwiftChargeName,buffs,Buff,,,Swift Charge
-buffSwiftChargeDesc,buffs,Buff,,,Gain effects with charges
-
-modRelicExploit,item_modifiers,Mod,,,"Relic: Exploit"
-relicExploitBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+25% Armor Penetration with Melee, Archery, and Robotics.\n+100% Armor Penetration with Spears and Batons."
-
-modRelicMechaEscavator,item_modifiers,Mod,,,"Relic: Mecha Escavator"
-relicMechaEscavatorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhile holding a Robotic Sledge:\nMine ore without harvest penalty\n+15% Ore Harvest Quantity\n100% Chance to 1-shot Ore\n75% Less Attack Speed"
-
-modRelicButcher,item_modifiers,Mod,,,"Relic: Butcher"
-relicButcherBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nEach Rank in The Huntsman grants\n+10% Harvest Quantity from Corpses.\n+7% Damage to Animals.\n+7% Damage with Knifes and Blades."
-
-modRelicMechaGladiator,item_modifiers,Mod,,,"Relic: Mecha Gladiator"
-relicMechaGladiatorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhile holding a Robotic Sledge:\n+75% Robotic Sledge Damage.\n+50% Robotic Sledge Attack Speed.\n+1 Robotic Sledge Attack Range."
-
-modRelicCombatantsReach,item_modifiers,Mod,,,"Relic: Combatant's Reach"
-relicCombatantsReachBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+0.5 Melee Attack Range."
-
-modRelicMechaCorpBadge,item_modifiers,Mod,,,"Relic: Mecha Corp Badge"
-relicMechaCorpBadgeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nEach point in Robotics Inventor grants:\n+15% Robotic Sledge Damage.\n+10 Robotic Turret Magazine Capacity.\n+5% Robotic Attack Speed.\nRobotics Degrade 5% Slower."
-
-modRelicSelfDamnation,item_modifiers,Mod,,,"Relic: Self Damnation"
-relicSelfDamnationBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+6% Damage per Debuff on you.\n+6% Attack Speed per Debuff on you.\n+6% Movement Speed per Debuff on you."
-
-modRelicShadowSight,item_modifiers,Mod,,,"Relic: Shadow Sight"
-relicShadowSightBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+15% Improved Sneaking.\n+25% Sneak Damage.\n+25% Crouch Speed.\n+15% EXP with Stealth Kills."
-
-modRelicMechaJoltpack,item_modifiers,Mod,,,"Relic: Mecha Joltpack"
-relicMechaJoltpackBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nYou are Shocked.\nSlow effects from Shock are inverted."
-buffRelicMechaJoltpackName,buffs,Buff,,,Relic: Mecha Joltpack
-buffRelicMechaJoltpackDesc,buffs,Buff,,,You are Shocked. Taking damage over time but Slow effects from Shock are inverted.
-buffRelicMechaJoltpackTooltip,buffs,Buff,,,You are Shocked. Taking damage over time but Slow effects from Shock are inverted.
-
-modRelicAudiocator,item_modifiers,Mod,,,"Relic: Audiocator"
-relicAudiocatorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+500% Noise Multiplier."
-
-modRelicTrauma,item_modifiers,Mod,,,"Relic: Trauma"
-relicTraumaBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an enemy applies Trauma.\nTrauma:\nTake 25% More Damage.\n-35% Move and Attack Speed."
-buffRelicTraumaEffectName,buffs,Buff,,,Relic: Trauma
-buffRelicTraumaEffectDesc,buffs,Buff,,,Take 25% More Damage.\n-35% Move and Attack Speed.
-
-modRelicHeavyWeight,item_modifiers,Mod,,,"Relic: Heavy Weight"
-relicHeavyWeightBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhile wielding a Two-handed melee weapon\n(Sledgehammer, Axe, Spears)\n+100% Entity Damage\n+50% Block Damage\n-35% Attack Speed"
-
-modRelicFeatherFate,item_modifiers,Mod,,,"Relic: Feather Fate"
-relicFeatherFateBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+15% Movement Speed\n+3% Movement Speed per Cardio perk point.\n+2% Movement Speed per Daring Adventurer perk point."
-
-
-modRelicTest,item_modifiers,Mod,,,"Relic: Test"
-relicTestBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n XXX"
-buffRelicEquippedTestName,buffs,Buff,,,Relic: Test
-buffRelicEquippedTestDesc,buffs,Buff,,,Testing something plz hold
-
-armorRelicTabulaRasa,items,Clothes,,,Tabula Rasa
-uniqueTabulaRasaDesc,items,Clothes,,,Modifier Slots: 6
-statTabulaRasa,ui_display,Item stat,,,Modifier Slots:
+Key,File,Type,UsedInMainMenu,NoTranslate,english,schinese
+
+modRingScorchT1,item_modifiers,Mod,,,"Ring of Scorch","灼烧之戒"
+modRingScorchT2,item_modifiers,Mod,,,"Ring of Scorch","灼烧之戒"
+modRingScorchT3,item_modifiers,Mod,,,"Ring of Scorch","灼烧之戒"
+ringScorchT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nHitting an enemy has a 45% chance to Ignite them for 5 seconds.","可镶嵌至手部护甲。\n命中敌人时有 45% 几率使其燃烧 5 秒。"
+ringScorchT2BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nHitting an enemy has a 60% chance to Ignite them for 5 seconds.","可镶嵌至手部护甲。\n命中敌人时有 60% 几率使其燃烧 5 秒。"
+ringScorchT3BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nHitting an enemy has a 75% chance to Ignite them for 5 seconds.","可镶嵌至手部护甲。\n命中敌人时有 75% 几率使其燃烧 5 秒。"
+buffScorchName,buffs,Buff,,,Scorch,灼烧
+buffScorchDesc,buffs,Buff,,,You are burning.,你正在燃烧。
+
+
+modRingStrideT1,item_modifiers,Mod,,,"Ring of Stride","疾行之戒"
+modRingStrideT2,item_modifiers,Mod,,,"Ring of Stride","疾行之戒"
+modRingStrideT3,item_modifiers,Mod,,,"Ring of Stride","疾行之戒"
+modRingStrideT4,item_modifiers,Mod,,,"Ring of Stride","疾行之戒"
+modRingStrideT5,item_modifiers,Mod,,,"Ring of Stride","疾行之戒"
+modRingStrideT6,item_modifiers,Mod,,,"Ring of Stride","疾行之戒"
+ringStrideBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants movement speed.","可镶嵌至手部护甲。\n提升移动速度。"
+
+
+modRingGreedT1,item_modifiers,Mod,,,"Ring of Greed","贪婪之戒"
+modRingGreedT2,item_modifiers,Mod,,,"Ring of Greed","贪婪之戒"
+modRingGreedT3,item_modifiers,Mod,,,"Ring of Greed","贪婪之戒"
+ringGreedBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants Bartering bonus, duke-looting quantity bonus, and an additional quest reward.","可镶嵌至手部护甲。\n提升交易加成、公爵币拾取数量，并额外获得一个任务奖励。"
+
+
+modRingSeekerT1,item_modifiers,Mod,,,"Ring of Seeker","探寻之戒"
+modRingSeekerT2,item_modifiers,Mod,,,"Ring of Seeker","探寻之戒"
+modRingSeekerT3,item_modifiers,Mod,,,"Ring of Seeker","探寻之戒"
+modRingSeekerT4,item_modifiers,Mod,,,"Ring of Seeker","探寻之戒"
+modRingSeekerT5,item_modifiers,Mod,,,"Ring of Seeker","探寻之戒"
+modRingSeekerT6,item_modifiers,Mod,,,"Ring of Seeker","探寻之戒"
+modRingSeekerT7,item_modifiers,Mod,,,"Ring of Seeker","探寻之戒"
+modRingSeekerT8,item_modifiers,Mod,,,"Ring of Seeker","探寻之戒"
+ringSeekerBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants bonuses to Loot Stage and Treasure Radius.","可镶嵌至手部护甲。\n提升战利品奖励，并缩小挖掘半径。"
+ringSeekerBasicDescLooting,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants bonuses to Looting.","可镶嵌至手部护甲。\n提升拾取收益。"
+ringSeekerBasicDescLootSpeed,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants bonuses to Loot Speed.","可镶嵌至手部护甲。\n提升搜刮速度。"
+
+
+modRingTwinTerrorT1,item_modifiers,Mod,,,"Ring of Twin Terror","双生恐惧之戒"
+modRingTwinTerrorT2,item_modifiers,Mod,,,"Ring of Twin Terror","双生恐惧之戒"
+modRingTwinTerrorT3,item_modifiers,Mod,,,"Ring of Twin Terror","双生恐惧之戒"
+ringTwinTerrorBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants an additional Projectile to be shot with Archery, but at the cost of a damage penelty.","可镶嵌至手部护甲。\n使用弓箭时额外射出一发弹丸，但会降低伤害。"
+statAdditionalProjectilesArchery,ui_display,Item stat,,,Archery Additional Projectiles:,弓箭额外弹丸：
+
+
+modRingVampiricaT1,item_modifiers,Mod,,,"Ring of Vampirica","吸血之戒"
+modRingVampiricaT2,item_modifiers,Mod,,,"Ring of Vampirica","吸血之戒"
+modRingVampiricaT3,item_modifiers,Mod,,,"Ring of Vampirica","吸血之戒"
+ringVampiricaBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nChance to leech 1 to 3 Health on hitting an enemy with Melee or Archery.","可镶嵌至手部护甲。\n使用近战或弓箭命中敌人时，有几率吸取 1 至 3 点生命。"
+statVampiricProcChance,ui_display,Item stat,,,Chance to leech:,吸血几率：
+
+
+modRingLaborloveT1,item_modifiers,Mod,,,"Ring of Laborlove","勤爱之戒"
+modRingLaborloveT2,item_modifiers,Mod,,,"Ring of Laborlove","勤爱之戒"
+modRingLaborloveT3,item_modifiers,Mod,,,"Ring of Laborlove","勤爱之戒"
+modRingLaborloveT4,item_modifiers,Mod,,,"Ring of Laborlove","勤爱之戒"
+modRingLaborloveT5,item_modifiers,Mod,,,"Ring of Laborlove","勤爱之戒"
+modRingLaborloveT6,item_modifiers,Mod,,,"Ring of Laborlove","勤爱之戒"
+ringLaborloveBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nThis ring has 6 varients","可镶嵌至手部护甲。\n此戒指共有 6 种变体。"
+statAdditionalCropHarvest,ui_display,Item stat,,,Additional Crop Harvested:,额外作物收获：
+
+modRingBrillianceT1,item_modifiers,Mod,,,"Ring of Brilliance","睿智之戒"
+modRingBrillianceT2,item_modifiers,Mod,,,"Ring of Brilliance","睿智之戒"
+modRingBrillianceT3,item_modifiers,Mod,,,"Ring of Brilliance","睿智之戒"
+modRingBrillianceT4,item_modifiers,Mod,,,"Ring of Brilliance","睿智之戒"
+modRingBrillianceT5,item_modifiers,Mod,,,"Ring of Brilliance","睿智之戒"
+ringBrillianceBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants EXP and INT bonus.","可镶嵌至手部护甲。\n提升经验与智力加成。"
+
+
+modRingInspirationT1,item_modifiers,Mod,,,"Ring of Inspiration","鼓舞之戒"
+modRingInspirationT2,item_modifiers,Mod,,,"Ring of Inspiration","鼓舞之戒"
+modRingInspirationT3,item_modifiers,Mod,,,"Ring of Inspiration","鼓舞之戒"
+ringInspirationBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nBuffs nearby Allies.","可镶嵌至手部护甲。\n为附近友军提供增益。"
+statInspirationMaxHealth,item_modifiers,Mod,,,Health Bonus for Allies:,友军生命加成：
+statInspirationDamage,item_modifiers,Mod,,,Allies deal more Damage:,友军伤害提升：
+statInspirationAtkSpd,item_modifiers,Mod,,,Attack Speed for Allies:,友军攻击速度：
+buffInspiredName,buffs,Buff,,,Inspired,受到鼓舞
+buffInspiredDesc,buffs,Buff,,,You have bonus Health and Damage and Attack Speed.,你获得了额外的生命、伤害和攻击速度。
+
+
+modRingAgonyT1,item_modifiers,Mod,,,"Ring of Agony","痛苦之戒"
+modRingAgonyT2,item_modifiers,Mod,,,"Ring of Agony","痛苦之戒"
+modRingAgonyT3,item_modifiers,Mod,,,"Ring of Agony","痛苦之戒"
+ringAgonyBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants a Damage and Attack Speed boost, at the cost of Health.","可镶嵌至手部护甲。\n提升伤害与攻击速度，但会降低生命值。"
+
+
+modRingHeadHunterT1,item_modifiers,Mod,,,"Ring of Head Hunter","猎头之戒"
+ringHeadHunterBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nKilling an enemy grants a stacking buff. Grants 5% Damage, Attack Speed, and Move Speed bonus per Stack.","可镶嵌至手部护甲。\n击杀敌人可获得可叠加的增益。每层提供 5% 伤害、攻击速度和移动速度加成。"
+buffHeadHunterName,buffs,Buff,,,Head Hunter,猎头
+buffHeadHunterDesc,buffs,Buff,,,You have bonus Damage and Attack Speed and Move Speed.,你获得了额外的伤害、攻击速度和移动速度。
+statHeadHunter,ui_display,Item stat,,,Head Hunter stack per kill:,每次击杀获得的猎头层数：
+
+
+modRingGuardiusT1,item_modifiers,Mod,,,"Ring of Guardius","守护之戒"
+modRingGuardiusT2,item_modifiers,Mod,,,"Ring of Guardius","守护之戒"
+modRingGuardiusT3,item_modifiers,Mod,,,"Ring of Guardius","守护之戒"
+modRingGuardiusT4,item_modifiers,Mod,,,"Ring of Guardius","守护之戒"
+modRingGuardiusT5,item_modifiers,Mod,,,"Ring of Guardius","守护之戒"
+modRingGuardiusT6,item_modifiers,Mod,,,"Ring of Guardius","守护之戒"
+ringGuardiusBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nWhen hit, gain Fortify for 6 seconds. Fortify reduces damage taken by 50%. This Effect has a 30 second Cooldown.","可镶嵌至手部护甲。\n受到攻击时获得“强化”，持续 6 秒。强化可减少 50% 所受伤害。该效果有 30 秒冷却时间。"
+statFortify,ui_display,Item stat,,,When hit gain Fortify,受击时获得强化
+buffFortifyName,buffs,Buff,,,Fortify,强化
+buffFortifyDesc,buffs,Buff,,,You take reduced damage.,你受到的伤害降低。
+buffFortifyNameCD,buffs,Buff,,,Fortify Cooldown,强化冷却
+buffFortifyDescCD,buffs,Buff,,,Fortify is on Cooldown.,强化正在冷却。
+
+
+modRingLifeEssT1,item_modifiers,Mod,,,"Ring of Life Essence","生命精华之戒"
+modRingLifeEssT2,item_modifiers,Mod,,,"Ring of Life Essence","生命精华之戒"
+modRingLifeEssT3,item_modifiers,Mod,,,"Ring of Life Essence","生命精华之戒"
+ringLifeEssT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nWhen hit, recover 5 Health after 5 Seconds. 15 second cooldown.","可镶嵌至手部护甲。\n受到攻击后，5 秒后恢复 5 点生命。冷却 15 秒。"
+ringLifeEssT2BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nWhen hit, recover 7 Health after 5 Seconds. 15 second cooldown.","可镶嵌至手部护甲。\n受到攻击后，5 秒后恢复 7 点生命。冷却 15 秒。"
+ringLifeEssT3BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nWhen hit, recover 10 Health after 5 Seconds. 15 second cooldown.","可镶嵌至手部护甲。\n受到攻击后，5 秒后恢复 10 点生命。冷却 15 秒。"
+statHealthRecovery,ui_display,Item stat,,,When hit gain Health after a short delay,受击后短暂延迟恢复生命
+buffLifeEssenceRecoverName,buffs,Buff,,,Health Recovery,生命恢复
+buffLifeEssenceRecoverDesc,buffs,Buff,,,You are recovering Health.,你正在恢复生命。
+
+
+modRingStealthT1,item_modifiers,Mod,,,"Ring of Stealth","潜行之戒"
+modRingStealthT2,item_modifiers,Mod,,,"Ring of Stealth","潜行之戒"
+modRingStealthT3,item_modifiers,Mod,,,"Ring of Stealth","潜行之戒"
+ringStealthT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nWhen you Crouch you trigger Stealth. Stealth makes you invisible to zombies. Stealth doesnt work on Blood Moon zombies.","可镶嵌至手部护甲。\n蹲下时触发潜行。潜行会使你对丧尸隐形。潜行对血月丧尸无效。"
+statGrantStealth,ui_display,Item stat,,,Grants Stealth on Crouch,蹲下时获得潜行
+buffRingStealthName,buffs,Buff,,,Stealth,潜行
+buffRingStealthDesc,buffs,Buff,,,Stealth is active and you're Invisible to enemies (Non-player). Attacking will break this effect.,潜行已激活，你对敌人（非玩家）隐形。攻击会打破该效果。
+buffRingStealthCDName,buffs,Buff,,,Stealth Cooldown,潜行冷却
+buffRingStealthCDDesc,buffs,Buff,,,Stealth is on Cooldown.,潜行正在冷却。
+
+
+modRingMechanismT1,item_modifiers,Mod,,,"Ring of Mechanism","机械之戒"
+modRingMechanismT2,item_modifiers,Mod,,,"Ring of Mechanism","机械之戒"
+modRingMechanismT3,item_modifiers,Mod,,,"Ring of Mechanism","机械之戒"
+modRingMechanismT4,item_modifiers,Mod,,,"Ring of Mechanism","机械之戒"
+modRingMechanismT5,item_modifiers,Mod,,,"Ring of Mechanism","机械之戒"
+ringMechanismT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nRobotic Summon Limit applies to Robotic Turret, and Robotic Sledge.","可镶嵌至手部护甲。\n机器人召唤上限适用于机器人炮塔和机器人大锤。"
+ringMechanismT2BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nBoost to Robotic Turret's and Robotic Sledge's Damage and Attack Speed.","可镶嵌至手部护甲。\n提升机器人炮塔和机器人大锤的伤害与攻击速度。"
+ringMechanismT3BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nLarge boost to Robotic Turret's and Robotic Sledge's Damage at the cost of their Attack Speed.","可镶嵌至手部护甲。\n大幅提升机器人炮塔和机器人大锤的伤害，但降低其攻击速度。"
+ringMechanismT4BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nBoost to Robotic Turret's and Robotic Sledge's Attack Speed at the cost of their Damage. Also increases Robotic Turret's Magazine Capacity.","可镶嵌至手部护甲。\n提升机器人炮塔和机器人大锤的攻击速度，但降低其伤害。同时提高机器人炮塔的弹匣容量。"
+ringMechanismT5BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nBoost Robotic Sledge's Strike Range, Damage, and Attack Speed.","可镶嵌至手部护甲。\n提升机器人大锤的攻击范围、伤害和攻击速度。"
+statRobotSummonLimit,ui_display,Item stat,,,Active Robot Limit,激活机器人上限
+statRobotActiveRange,ui_display,Item stat,,,Activation Range,激活范围
+statRobotDamage,ui_display,Item stat,,,Robot Damage,机器人伤害
+statRobotAtkSpd,ui_display,Item stat,,,Robot Attack Speed,机器人攻击速度
+statRobotMagCapacity,ui_display,Item stat,,,Robot Magazine Capacity,机器人弹匣容量
+statRobotStrikeRange,ui_display,Item stat,,,Robot Strike Range,机器人大锤攻击范围
+
+
+modRingThunderstruckT1,item_modifiers,Mod,,,"Ring of Thunderstruck","雷霆之戒"
+ringThunderstruckT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nArchery and Spear Throw hits will shock all enemies on impact within a small radius. 5 Second Cooldown. Shock lasts 2 seconds and deals damage.","可镶嵌至手部护甲。\n弓箭与投矛命中时，会在小范围内电击所有敌人。冷却 5 秒。电击持续 2 秒并造成伤害。"
+statGrantThunderstruck,ui_display,Item stat,,,Grants Thunderstruck,获得雷霆
+buffShockThunderstruckName,buffs,Buff,,,Shocked,感电
+buffShockThunderstruckDesc,buffs,Buff,,,You are Shocked: You are slowed and taking electrical damage while Shocked.,你被电击：感电期间移动减速并持续受到电击伤害。
+buffThunderstruckCDName,buffs,Buff,,,Thunderstruck Cooldown,雷霆冷却
+buffThunderstruckCDDesc,buffs,Buff,,,Thunderstruck is on Cooldown.,雷霆正在冷却。
+
+
+modRingPredatorT1,item_modifiers,Mod,,,"Ring of Predator","掠食者之戒"
+modRingPredatorT2,item_modifiers,Mod,,,"Ring of Predator","掠食者之戒"
+modRingPredatorT3,item_modifiers,Mod,,,"Ring of Predator","掠食者之戒"
+ringPredatorT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nBoosts your Damage, Attack Speed, and Movement Speed.","可镶嵌至手部护甲。\n提升你的伤害、攻击速度和移动速度。"
+
+
+modRingAssassinT1,item_modifiers,Mod,,,"Ring of Assassin","刺客之戒"
+modRingAssassinT2,item_modifiers,Mod,,,"Ring of Assassin","刺客之戒"
+modRingAssassinT3,item_modifiers,Mod,,,"Ring of Assassin","刺客之戒"
+ringAssassinT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nBoosts your Jump Distance, Light, Noise, Crouch Speed, and Sneak Damage.","可镶嵌至手部护甲。\n提升你的跳跃距离、光照、噪音、蹲伏速度和潜行伤害。"
+
+
+modRingMendingT1,item_modifiers,Mod,,,"Ring of Mending","愈合之戒"
+ringMendingT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants Mending, a Buff that recovers Crit Injuries and Heals 2 Health per 30 seconds. This Buff recycles while this Ring is equipped.","可镶嵌至手部护甲。\n赋予“愈合”增益，可恢复重创并每 30 秒治疗 2 点生命。装备此戒指期间该增益会循环触发。"
+ringGrantMending,ui_display,Item stat,,,Grants Mending,赋予愈合
+buffMendingName,buffs,Buff,,,Mending,愈合
+buffMendingDesc,buffs,Buff,,,You are being healed.,你正在接受治疗。
+
+
+modRingStaminaT1,item_modifiers,Mod,,,"Ring of Stamina","耐力之戒"
+modRingStaminaT2,item_modifiers,Mod,,,"Ring of Stamina","耐力之戒"
+modRingStaminaT3,item_modifiers,Mod,,,"Ring of Stamina","耐力之戒"
+modRingStaminaT4,item_modifiers,Mod,,,"Ring of Stamina","耐力之戒"
+ringStaminaT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants Stamina and Stamina Regen.","可镶嵌至手部护甲。\n提升耐力与耐力回复。"
+
+
+modRingFaceBreakerT1,item_modifiers,Mod,,,"Ring of Face Breaker","破面之戒"
+modRingFaceBreakerT2,item_modifiers,Mod,,,"Ring of Face Breaker","破面之戒"
+modRingFaceBreakerT3,item_modifiers,Mod,,,"Ring of Face Breaker","破面之戒"
+ringFaceBreakerT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants bonuses to Fist attacks.","可镶嵌至手部护甲。\n提升拳击攻击加成。"
+statFistDamage,ui_display,Item stat,,,Brawling Damage,格斗伤害
+statFistAttackSpeed,ui_display,Item stat,,,Brawling Attack Speed,格斗攻击速度
+statPowerAttackDamage,ui_display,Item stat,,,Brawling Power Attack Damage,格斗强力攻击伤害
+statPowerAttackStaminaCost,ui_display,Item stat,,,Brawling Power Attack Stamina Cost,格斗强力攻击耐力消耗
+statFistDamage75Chance25,ui_display,Item stat,,,Chance for +75% Brawling Damage:,+75% 格斗伤害几率：
+statFistDamage50Chance50,ui_display,Item stat,,,Chance for +50% Brawling Damage:,+50% 格斗伤害几率：
+statFistDamage25Chance75,ui_display,Item stat,,,Chance for +25% Brawling Damage:,+25% 格斗伤害几率：
+statFistForce,ui_display,Item stat,,,Brawling Knockback force: ,格斗击退力度：
+
+
+modRingDragonClaw,item_modifiers,Mod,,,"Ring of Dragon Claw","龙爪之戒"
+ringDragonClawBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nActivates Dragon Claw on Power Attack.\nDragon Claw applies a Bleed debuff to the enemy hit and nearby enemies, lasts 8 seconds. 12 Second Cooldown.","可镶嵌至手部护甲。\n强力攻击时激活“龙爪”。\n龙爪会对命中的敌人及附近敌人施加流血减益，持续 8 秒。冷却 12 秒。"
+statGrantDragonClaw,ui_display,Item stat,,,Grants Dragon Claw,获得龙爪
+buffDragonClawCooldownName,buffs,Buff,,,Dragon Claw Cooldown,龙爪冷却
+buffDragonClawCooldownDesc,buffs,Buff,,,Dragon Claw cannot activate during Cooldown.,龙爪在冷却期间无法激活。
+buffDragonClawBleedName,buffs,Buff,,,Dragon Claw Bleed,龙爪流血
+
+modRingDragonFlame,item_modifiers,Mod,,,"Ring of Dragon Flame","龙焰之戒"
+ringDragonFlameBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nActivates Dragon Flame on Power Attack.\nDragon Flame applies a Burn debuff to the enemy hit and nearby enemies, lasts 4 seconds. 12 Second Cooldown.","可镶嵌至手部护甲。\n强力攻击时激活“龙焰”。\n龙焰会对命中的敌人及附近敌人施加燃烧减益，持续 4 秒。冷却 12 秒。"
+statGrantDragonFlame,ui_display,Item stat,,,Grants Dragon Flame,获得龙焰
+buffDragonFlameCooldownName,buffs,Buff,,,Dragon Flame Cooldown,龙焰冷却
+buffDragonFlameCooldownDesc,buffs,Buff,,,Dragon Flame cannot activate during Cooldown.,龙焰在冷却期间无法激活。
+buffDragonFlameBurnName,buffs,Buff,,,Dragon Flame Burn,龙焰灼烧
+
+modRingDragonRoar,item_modifiers,Mod,,,"Ring of Dragon Roar","龙吼之戒"
+ringDragonRoarBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nActivates Dragon Roar on Power Attack.\nDragon Roar knocksdown the enemy hit and nearby enemies. 12 Second Cooldown.","可镶嵌至手部护甲。\n强力攻击时激活“龙吼”。\n龙吼会击倒命中的敌人及附近敌人。冷却 12 秒。"
+statGrantDragonRoar,ui_display,Item stat,,,Grants Dragon Roar,获得龙吼
+buffDragonRoarCooldownName,buffs,Buff,,,Dragon Roar Cooldown,龙吼冷却
+buffDragonRoarCooldownDesc,buffs,Buff,,,Dragon Roar cannot activate during Cooldown.,龙吼在冷却期间无法激活。
+
+
+modRingForceT1,item_modifiers,Mod,,,"Ring of Force","冲击之戒"
+modRingForceT2,item_modifiers,Mod,,,"Ring of Force","冲击之戒"
+modRingForceT3,item_modifiers,Mod,,,"Ring of Force","冲击之戒"
+ringForceBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nHitting an enemy will knock them back.","可镶嵌至手部护甲。\n命中敌人时会将其击退。"
+statForce,ui_display,Item stat,,,Knockback Force:,击退力度：
+
+
+modRingWishART,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishMovement,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishDamageMit,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishHealthMax,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishStaminaMax,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishAddProj,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishJump,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishEXP,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishAttSTR,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishAttPER,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishAttAGI,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishAttFORT,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishAttINT,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishAtkSpd,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishEntityDamage,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishDigRadius,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishHarvest,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishOreOS,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishTreeOS,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishLockpick,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishAddQuest,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishDukeQuant,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishLootStage,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+modRingWishAmplify,item_modifiers,Mod,,,"Ring of Wish","祈愿之戒"
+ringWishBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants a single random modifier.","可镶嵌至手部护甲。\n随机获得一条属性。"
+
+
+modRingVenomT1,item_modifiers,Mod,,,"Ring of Venom","剧毒之戒"
+modRingVenomT2,item_modifiers,Mod,,,"Ring of Venom","剧毒之戒"
+modRingVenomT3,item_modifiers,Mod,,,"Ring of Venom","剧毒之戒"
+ringVenomT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nHitting an enemy will apply 2 Poison Stacks. Each stack of poison deals low damage over time. This Poison lasts 12 seconds.","可镶嵌至手部护甲。\n命中敌人会施加 2 层中毒。每层中毒会持续造成少量伤害。该中毒持续 12 秒。"
+ringVenomT2BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nHitting an enemy will apply 3 Poison Stacks. Each stack of poison deals low damage over time. This Poison lasts 12 seconds.","可镶嵌至手部护甲。\n命中敌人会施加 3 层中毒。每层中毒会持续造成少量伤害。该中毒持续 12 秒。"
+ringVenomT3BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nHitting an enemy will apply 4 Poison Stacks. Each stack of poison deals low damage over time. This Poison lasts 12 seconds.","可镶嵌至手部护甲。\n命中敌人会施加 4 层中毒。每层中毒会持续造成少量伤害。该中毒持续 12 秒。"
+statPoisonOnHit,ui_display,Item stat,,,Poison Enemy On Hit:,命中使敌人中毒：
+buffPoisonDurationROVName,buffs,Buff,,,Poison Duration,中毒持续时间
+buffPoisonDurationROVDesc,buffs,Buff,,,You are Poisoned by Ring of Venom. Taking damage over time.,你被剧毒之戒施毒，正在持续受到伤害。
+buffPoisonEffectROVName,buffs,Buff,,,Poison Stack,中毒层数
+buffPoisonEffectROVDesc,buffs,Buff,,,You are Poisoned by Ring of Venom. Taking damage over time.,你被剧毒之戒施毒，正在持续受到伤害。
+
+
+modRingDemolitionT1,item_modifiers,Mod,,,"Ring of Demolition","爆破之戒"
+modRingDemolitionT2,item_modifiers,Mod,,,"Ring of Demolition","爆破之戒"
+modRingDemolitionT3,item_modifiers,Mod,,,"Ring of Demolition","爆破之戒"
+ringDemolitionBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants bonus Block Damage.","可镶嵌至手部护甲。\n提升方块伤害。"
+statDemoBrawler,ui_display,Item stat,,,Brawler Block Damage:,格斗方块伤害：
+statDemoSledge,ui_display,Item stat,,,Robotic Sledge Block Damage:,机器人大锤方块伤害：
+statDemoGeneric,ui_display,Item stat,,,Block Damage:,方块伤害：
+
+
+modRingRebornT1,item_modifiers,Mod,,,"Ring of Reborn","重生之戒"
+modRingRebornT2,item_modifiers,Mod,,,"Ring of Reborn","重生之戒"
+modRingRebornT3,item_modifiers,Mod,,,"Ring of Reborn","重生之戒"
+ringRebornT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nWhen reaching 15 or less Health, recover to full health. Reborn has a 10 Minute Cooldown.","可镶嵌至手部护甲。\n生命值降至 15 或以下时，恢复至满血。\n“重生”有 10 分钟冷却时间。"
+ringRebornT2BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nWhen reaching 20 or less Health, recover to full health. Reborn has a 10 Minute Cooldown.","可镶嵌至手部护甲。\n生命值降至 20 或以下时，恢复至满血。\n“重生”有 10 分钟冷却时间。"
+ringRebornT3BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nWhen reaching 25 or less Health, recover to full health. Reborn has a 10 Minute Cooldown.","可镶嵌至手部护甲。\n生命值降至 25 或以下时，恢复至满血。\n“重生”有 10 分钟冷却时间。"
+statGrantsReborn,ui_display,Item stat,,,Grants Reborn,获得重生
+buffRingOfRebornChargedName,buffs,Buff,,,Reborn Charged,重生已充能
+buffRingOfRebornT1ChargedDesc,buffs,Buff,,,Recover to full Health upon reaching 15 or less Health.,生命值降至 15 或以下时恢复至满血。
+buffRingOfRebornT2ChargedDesc,buffs,Buff,,,Recover to full Health upon reaching 20 or less Health.,生命值降至 20 或以下时恢复至满血。
+buffRingOfRebornT3ChargedDesc,buffs,Buff,,,Recover to full Health upon reaching 25 or less Health.,生命值降至 25 或以下时恢复至满血。
+buffRingOfRebornCooldownName,buffs,Buff,,,Reborn Cooldown,重生冷却
+buffRingOfRebornCooldownDesc,buffs,Buff,,,Roborn is on Cooldown.,重生正在冷却。
+
+
+modRingAmplifyT1,item_modifiers,Mod,,,"Ring of Amplification","增幅之戒"
+modRingAmplifyT2,item_modifiers,Mod,,,"Ring of Amplification","增幅之戒"
+modRingAmplifyT3,item_modifiers,Mod,,,"Ring of Amplification","增幅之戒"
+ringAmplifyBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants bonus to Consumable's Buff Duration.","可镶嵌至手部护甲。\n提升消耗品增益持续时间。"
+statAmplify,ui_display,Item stat,,,Consumable's Buff Duration:,消耗品增益持续时间：
+buffAmplifyName,buffs,Buff,,,Amplify,增幅
+buffAmplifyDesc,buffs,Buff,,,You are Amplified. Consumable Buff Duration increased.,你已获得增幅。消耗品增益持续时间提升。
+
+
+modRingSplinterRainWrathful,item_modifiers,Mod,,,"Ring of Splinter Rain","碎雨之戒"
+ringSplinterRainWrathBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nShoot additional Projectiles with Archery","可镶嵌至手部护甲。\n使用弓箭时额外射出弹丸。"
+buffRingSplinterRainWrathName,buffs,Buff,,,Wrathful Splinter Rain,狂怒碎雨
+buffRingSplinterRainWrathDesc,buffs,Buff,,,Shoot additional Projectiles with Archery,使用弓箭时额外射出弹丸。
+
+modRingSplinterRainFurious,item_modifiers,Mod,,,"Ring of Splinter Rain","碎雨之戒"
+ringSplinterRainFuriousBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nIncreased Attack Speed with Archery.","可镶嵌至手部护甲。\n提升弓箭攻击速度。"
+buffRingSplinterRainFuriousName,buffs,Buff,,,Furious Splinter Rain,狂暴碎雨
+buffRingSplinterRainFuriousDesc,buffs,Buff,,,Increased Attack Speed with Archery.,提升弓箭攻击速度。
+
+modRingSplinterRainDestructive,item_modifiers,Mod,,,"Ring of Splinter Rain","碎雨之戒"
+ringSplinterRainDestructiveBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nShoot additional Projectiles with Archery, at the cost of Archery Damage and Attack Speed.","可镶嵌至手部护甲。\n使用弓箭时额外射出弹丸，但会降低弓箭伤害和攻击速度。"
+buffRingSplinterRainDestructiveName,buffs,Buff,,,Destructive Splinter Rain,毁灭碎雨
+buffRingSplinterRainDestructiveDesc,buffs,Buff,,,Shoot additional Projectiles with Archery at the cost of Archery Damage and Attack Speed.,使用弓箭时额外射出弹丸，但会降低弓箭伤害和攻击速度。
+
+
+modRingStorageT1,item_modifiers,Mod,,,"Ring of Storage","储物之戒"
+modRingStorageT2,item_modifiers,Mod,,,"Ring of Storage","储物之戒"
+modRingStorageT3,item_modifiers,Mod,,,"Ring of Storage","储物之戒"
+modRingStorageT4,item_modifiers,Mod,,,"Ring of Storage","储物之戒"
+modRingStorageT5,item_modifiers,Mod,,,"Ring of Storage","储物之戒"
+modRingStorageT6,item_modifiers,Mod,,,"Ring of Storage","储物之戒"
+ringStorageBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants storage capacity","可镶嵌至手部护甲。\n提升储物容量。"
+
+
+modRingFishingT1,item_modifiers,Mod,,,"Ring of Angler","钓者之戒"
+ringFishingT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants the ability: Fishing.","可镶嵌至手部护甲。\n赋予能力：钓鱼。"
+statGrantFishing,ui_display,Item stat,,,Grants Fishing,获得钓鱼能力
+buffRingGrantFishingName,buffs,Buff,,,Fishing,钓鱼
+buffRingGrantFishingDesc,buffs,Buff,,,You are fishing!,你正在钓鱼！
+
+modRingBeginningsT1,item_modifiers,Mod,,,"Ring of Beginnings","初始之戒"
+ringBeginningsT1BasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants Damage, Health, and Stamina.","可镶嵌至手部护甲。\n提升伤害、生命和耐力。"
+
+modRingCraftedSilver,item_modifiers,Mod,,,"Ring of Silver","白银之戒"
+ringCraftedSilverBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants Health and Defenses.","可镶嵌至手部护甲。\n提升生命与防御。"
+
+modRingCraftedGold,item_modifiers,Mod,,,"Ring of Gold","黄金之戒"
+ringCraftedGoldBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants bonuses to Harvest and Looting Dukes.","可镶嵌至手部护甲。\n提升采集和拾取公爵币的加成。"
+
+modRingCraftedDiamond,item_modifiers,Mod,,,"Ring of Diamond","钻石之戒"
+ringCraftedDiamondBasicDesc,item_modifiers,Mod,,,"Sockets into Hand Armor items.\nGrants bonuses to Bartering and chance to One-Shot ore.","可镶嵌至手部护甲。\n提升交易加成，并有机会一击开采矿石。"
+
+
+
+statLockpickTime,ui_display,Item stat,,,Faster Lockpicking,开锁速度加快
+statHealthMax,ui_display,Item stat,,,Max Health,最大生命
+statJumpDistance,ui_display,Item stat,,,Jump Distance,跳跃距离
+statCrouchSpd,ui_display,Item stat,,,Crouch Speed,蹲伏速度
+statMovementSpd,ui_display,Item stat,,,Movement Speed,移动速度
+statWalkSpeed,ui_display,Item stat,,,Walk Speed,行走速度
+statAtkSpd,ui_display,Item stat,,,Attack Speed,攻击速度
+statArcheryAttackSpeed,ui_display,Item stat,,,Archery Attack Speed,弓箭攻击速度
+statSneakDamage,ui_display,Item stat,,,Sneak Damage,潜行伤害
+statOneShotOre,ui_display,Item stat,,,Chance to one-shot any ore:,一击开采任意矿石几率：
+statOneShotTree,ui_display,Item stat,,,Chance to one-shot any tree:,一击砍倒任意树木几率：
+statInHandTurretDamage,ui_display,Item stat,,,Robotic Sledge In-Hand Damage,手持机器人大锤伤害
+statHarvestQuantityOre,ui_display,Item stat,,,Ore Harvest Quantity:,矿石采集数量：
+statHarvestQuantityWood,ui_display,Item stat,,,Wood Harvest Quantity:,木材采集数量：
+statHarvestQuantitySalvage,ui_display,Item stat,,,Salvage Harvest Quantity:,拆解采集数量：
+statHarvestQuantityMeat,ui_display,Item stat,,,Meat Harvest Quantity:,肉类采集数量：
+statAdditionalQuestReward,ui_display,Item stat,,,Additional Quest Reward:,额外任务奖励：
+
+statLootQuantityDukes,ui_display,Item stat,,,Loot Quantity Dukes:,公爵币拾取数量：
+statLootQuantityFood,ui_display,Item stat,,,Loot Quantity Food:,食物拾取数量：
+statLootQuantityAmmo,ui_display,Item stat,,,Loot Quantity Ammo:,弹药拾取数量：
+statLootQuantityMedical,ui_display,Item stat,,,Loot Quantity Medical:,医疗品拾取数量：
+statLootSpeed,ui_display,Item stat,,,Looting Speed:,搜刮速度：
